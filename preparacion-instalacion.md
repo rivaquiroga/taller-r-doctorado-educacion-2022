@@ -1,7 +1,5 @@
 # Indicaciones previas
 
-## Prepara tu computador
-
 ## Instalación de R y RStudio + RStudio Cloud
 
 En este taller utilizaremos el lenguaje de programación R a través de una plataforma que facilita su uso: RStudio. RStudio es un IDE, es decir, un *Entorno de Desarrollo Integrado* (IDE es el acrónimo de *Integrated Development Environment*). Esto quiere decir que RStudio es una aplicación que nos entrega herramientas para hacer más fácil el desarrollo de proyectos usando R.
@@ -49,13 +47,13 @@ Si todo sale bien, al abrir R en tu computador deberías ver algo parecido a est
 <img src="imagenes/r-windows.png" width="600"/>
 </p>
 
-Y en Mac se debería ver así:
+Y en Mac se debería ver algo así:
 
 <p align="center">
 <img src="imagenes/r-mac.png" width="600"/>
 </p>
 
-(La información sobre la versión de R y sobre el sistema operativo que aparece en ese mensaje inicial puede que se vea distinto en tu caso.)
+(La información sobre la versión de R y sobre el sistema operativo que aparece en ese mensaje inicial serán distintos en tu caso.)
 
 
 #### 2. Instala RStudio
@@ -69,7 +67,7 @@ Si quedó todo bien instalado, cuando abras RStudio deberías ver algo parecido 
 <img src="imagenes/rstudio.png" width="600"/>
 </p>
 
-A lo largo del curso usaremos una versión reciente de R y RStudio, así que si tienes instalada una versión previa, puede que algunas cosas se vean un poco distintas. Versiones de R anteriores a la 4.0.1 harán que algunas cosas no funcionen, por lo que si ese es tu caso, mejor actualizar todo. La última versión de R es la 4.1.0 y la última de RStudio la 2022.02.0-443.
+A lo largo del taller usaremos una versión reciente de R y RStudio, así que si tienes instalada una versión previa, puede que algunas cosas se vean un poco distintas. Versiones de R anteriores a la 4.0.1 harán que algunas cosas no funcionen, por lo que si ese es tu caso, mejor actualizar todo. La última versión de R es la 4.1.0 y la última de RStudio la 2022.02.0-443.
 
 
 ### RStudio Cloud

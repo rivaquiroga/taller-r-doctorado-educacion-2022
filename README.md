@@ -1,6 +1,4 @@
-# Procesamiento y visualización de datos con R
-
-> Un taller de cinco sesiones para estudiantes del Doctorado en Educación UC 2022
+# Taller de introducción a R
 
 En este repositorio quedarán alojados los materiales que utilizaremos en clases. 
 
