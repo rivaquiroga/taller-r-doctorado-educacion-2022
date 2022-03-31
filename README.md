@@ -8,19 +8,18 @@ Revisa [el siguiente documento](https://github.com/rivaquiroga/taller-r-doctorad
 
 ## Materiales
 
-### Sesión 1
+### Semana 1
 
 * [Código en vivo](https://www.dropbox.com/s/0evelwddtcfaeuq/script-semana-1.R?dl=0)
 * [Datos primer ejercicio](https://www.dropbox.com/s/f08xxccc552k512/registro_nombres.xlsx?dl=0)
 
 
-### Sesión 2
+### Semana 2
 
-### Sesión 3
+* [Código en vivo](https://www.dropbox.com/s/4zcgjtgzzeiqjun/script-semana-2.R?dl=0)
+* [Datos segundo ejercicio](https://raw.githubusercontent.com/rivaquiroga/taller-r-doctorado-educacion-2022/master/datos/datos_desarrollo.csv)
+### Semana 3
 
-### Sesión 4
-
-### Sesión 5
 
 
 ## Material de apoyo
