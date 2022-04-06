@@ -11,15 +11,18 @@ Revisa [el siguiente documento](https://github.com/rivaquiroga/taller-r-doctorad
 ### Semana 1
 
 * [Código en vivo](https://www.dropbox.com/s/0evelwddtcfaeuq/script-semana-1.R?dl=0)
-* [Datos primer ejercicio](https://www.dropbox.com/s/f08xxccc552k512/registro_nombres.xlsx?dl=0)
+* [Datos ejercicio](https://www.dropbox.com/s/f08xxccc552k512/registro_nombres.xlsx?dl=0)
 
 
 ### Semana 2
 
 * [Código en vivo](https://www.dropbox.com/s/4zcgjtgzzeiqjun/script-semana-2.R?dl=0)
-* [Datos segundo ejercicio](https://raw.githubusercontent.com/rivaquiroga/taller-r-doctorado-educacion-2022/master/datos/datos_desarrollo.csv)
+
+
 ### Semana 3
 
+* [Código en vivo](https://www.dropbox.com/s/5lpr7v9chvs3ab1/script-semana-3.R?dl=0)
+* [Datos ejercicio](https://raw.githubusercontent.com/rivaquiroga/taller-r-doctorado-educacion-2022/master/datos/datos_desarrollo.csv)
 
 
 ## Material de apoyo
