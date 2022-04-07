@@ -22,7 +22,8 @@ Revisa [el siguiente documento](https://github.com/rivaquiroga/taller-r-doctorad
 ### Semana 3
 
 * [Código en vivo](https://www.dropbox.com/s/5lpr7v9chvs3ab1/script-semana-3.R?dl=0)
-* [Datos ejercicio](https://raw.githubusercontent.com/rivaquiroga/taller-r-doctorado-educacion-2022/master/datos/datos_desarrollo.csv)
+* [Datos ejercicio (para descargar)](https://www.dropbox.com/s/bda009302etz94r/datos_desarrollo.csv?dl=0)
+* [Datos ejercicio (para importar directamente)](https://raw.githubusercontent.com/rivaquiroga/taller-r-doctorado-educacion-2022/master/datos/datos_desarrollo.csv)
 
 
 ## Material de apoyo
